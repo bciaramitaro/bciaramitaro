@@ -18,5 +18,5 @@ BA Media Arts + Media and Screen Studies — Northeastern University
 
 tools & technologies
 
-`Arduino` `Max/MSP` `TouchDesigner` `Jitter` `MadMapper` `QLab` `Logic Pro` `Premiere Pro` `Projection Mapping` `Physical Computing` `Adobe Suite` `HTML` `CSS` 
+`Arduino` `Max/MSP` `TouchDesigner` `Jitter` `MadMapper` `QLab` `Logic Pro` `Premiere Pro` `Adobe Suite` `HTML` `CSS` 
 
