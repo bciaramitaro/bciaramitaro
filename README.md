@@ -1,6 +1,6 @@
 # hi, i'm bella!
 
-Expanded cinema artist and designer working at the intersection of projection, physical computing, interactive installation, sound, and cyanotype animation.
+Expanded cinema artist and designer working at the intersection of projection, physical computing, interactive installation, sound art, and cyanotype animation.
 
 [bellaciaramitaro.com](https://www.bellaciaramitaro.com) 
 
