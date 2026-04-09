@@ -1,4 +1,4 @@
-# hi, i'm bella!
+# Hi, I'm Bella!
 
 Expanded cinema artist and designer working at the intersection of projection, physical computing, interactive installation, sound art, and cyanotype animation.
 
