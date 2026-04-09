@@ -6,8 +6,8 @@ Expanded cinema artist and designer working at the intersection of projection, p
 
 **Interests:**
 - Interactive installation & experiential media
-- Projection design & spatial audio
-- Analog Process 
+- Projection & sound design
+- Analog process 
 - Enchantment, embodiment, liminality, and awe
 
 MA Interaction Design — University of the Arts London
