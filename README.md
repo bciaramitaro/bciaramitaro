@@ -8,7 +8,7 @@ Expanded cinema artist and designer working at the intersection of projection, p
 - Interactive installation & experiential media
 - Physical computing & conductive materials
 - Projection design & spatial audio
-- Enchantment, embodiment, and liminality
+- Enchantment, embodiment, liminality, awe
 
 MA Interaction Design — University of the Arts London
 
