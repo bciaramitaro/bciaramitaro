@@ -1,16 +1,20 @@
-## Hi there 👋
+hi, i'm bella!
 
-<!--
-**bciaramitaro/bciaramitaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Expanded cinema artist and designer working at the intersection of projection, physical computing, interactive installation, sound, and cyanotype animation.
 
-Here are some ideas to get you started:
+**Interests:**
+- Interactive installation & experiential media
+- Physical computing & conductive materials
+- Projection design & spatial audio
+- Enchantment, embodiment, liminality, awe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[bellaciaramitaro.com](https://www.bellaciaramitaro.com) 
+
+MA Interaction Design — University of the Arts London
+BA Media Arts + Media and Screen Studies — Northeastern University
+
+---
+
+tools & technologies
+
+`Arduino` `Max/MSP` `TouchDesigner` `Jitter` `MadMapper` `QLab` `Logic Pro` `Premiere Pro` `Projection Mapping` `Physical Computing`
