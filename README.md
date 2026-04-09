@@ -11,7 +11,6 @@ Expanded cinema artist and designer working at the intersection of projection, p
 - Enchantment, embodiment, and liminality
 
 MA Interaction Design — University of the Arts London
-
 BA Media Arts + Media and Screen Studies — Northeastern University
 
 ---
